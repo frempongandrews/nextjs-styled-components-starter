@@ -1,0 +1,14 @@
+:root{
+  --main-pink: rgba(254, 44, 85, 1.0);
+  --light-grey: rgba(22, 24, 35, 0.1);
+  --dark-grey: rgba(84, 84, 84, 0.92);
+  --white: rgb(255, 255, 255);
+  min-width: 480px;
+}
+* {
+  box-sizing: border-box;
+}
+
+.container{
+  max-width: 1199px;
+}
